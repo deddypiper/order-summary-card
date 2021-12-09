@@ -8,7 +8,7 @@ body {
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background-image: url(pattern-background-desktop.svg);
+  background-image: url(./starter-code/images/pattern-background-desktop.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -32,7 +32,7 @@ body {
 .picture {
   height: 33%;
   width: 100%;
-  background-image: url(./illustration-hero.svg);
+  background-image: url(./starter-code/images/illustration-hero.svg);
   background-position: center;
   background-size: 100%;
   border-radius: 20px 20px 0 0px;
